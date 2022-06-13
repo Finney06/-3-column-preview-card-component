@@ -31,9 +31,6 @@ main {
     flex-direction: row;
     border-radius: 10px;
     overflow: hidden;
-    margin: 20px;
-
-    
 }
 
 section {
