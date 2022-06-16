@@ -17,7 +17,7 @@
 
 body {
     background-color: var(--neutral-very-light-gray-background-headings-button);
-    font-size: 16px;
+    font-size: 15px;
     
 }
 
@@ -34,11 +34,11 @@ main {
 }
 
 section {
-    padding: 2.5rem;
+    padding: 37.5px;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 30px;
     padding: 20px 0;
     text-transform: uppercase;
     font-family: 'Big Shoulders Display', sans-serif;
@@ -46,18 +46,18 @@ h1 {
 }
 
 p {
-    font-size: 1rem;
-    padding-bottom: 5rem;
-    line-height: 1.4rem;
+    font-size: 15px;
+    padding-bottom: 75px;
+    line-height: 21px;
     font-family: 'Lexend Deca', sans-serif;
     color: var(--neutral-very-light-gray-background-headings-button);
 }
 
 button {
     background-color: var(--neutral-very-light-gray-background-headings-button);
-    padding: 1rem;
-    width: 8rem;
-    border-radius: 3rem;
+    padding: 15px;
+    width: 120px;
+    border-radius: 45px;
     cursor: pointer;
     border: 1px solid white;
     transition: all 0.3s ease-in-out;
@@ -65,7 +65,7 @@ button {
 
 .sedans {
     background-color: var(--pry-bright-orange);
-    border-radius: 0.5rem 0 0 0.5rem;
+    border-radius: 7.5px 0 0 7.5px;
 }
 
 .sedans button {
@@ -93,7 +93,7 @@ button {
 
 .luxury {
     background-color: var(--pry-very-dark-cyan);
-    border-radius: 0 0.5rem 0.5rem 0;
+    border-radius: 0 7.5px 7.5px 0;
 }
 
 .luxury button {
@@ -106,7 +106,7 @@ button {
 }
 
 .attribution {
-    margin: 1rem 0rem;
+    margin: 15px 0;
   }
 
 @media (max-width: 375px) {
